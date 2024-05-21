@@ -2,8 +2,8 @@
 
 This repository contains Python code for object detection and contour formation using OpenCV and the SAM Model. In case the Jupyter notebook file doesn't work here, here is the link to the Colab:
 
-- [Colab Link 1](https://colab.research.google.com/drive/1RkbQQ1CInsmVroGXgK-9WpG0lXWxCG6r?usp=sharing)
-- [Colab Link 2](https://colab.research.google.com/drive/12tKq16eqC3b-n_ALMeS1HTya_2f8iwq5?usp=sharing)
+- [object_detection_using_opencv](https://colab.research.google.com/drive/1qhgMp-6UeMWnJ0-BqKvbScYsTMYlgfuV?usp=sharing)
+- [object_detection_using_SAM](https://colab.research.google.com/drive/1bpRpx15Brvw22kkF-Szkqb8rBZghwwba?usp=sharing)
 
 ## Note
 
